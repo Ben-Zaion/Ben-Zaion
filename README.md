@@ -1,5 +1,3 @@
-![GitHub neofetch](https://github-readme-insight-terminal-asci.vercel.app/svg/neofetch?user=Ben-Zaion&theme=mac&scale=1.5&color=1)
-
 ![Language history](https://github-readme-insight-terminal-asci.vercel.app/svg/lang-history?user=Ben-Zaion&theme=mac&years=1&scale=1.5)
 
 ![Recent commits](https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=Ben-Zaion&theme=mac&scale=1.5)
