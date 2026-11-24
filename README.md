@@ -1,8 +1,3 @@
-![GitHub dashboard](https://github-readme-insight-terminal-asci.vercel.app/svg/dashboard?user=Ben-Zaion&theme=win98)
-![Recent commits](https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=Ben-Zaion&theme=win98)
-
-
-
 
 <div align="center">
 
@@ -10,44 +5,10 @@
 
 # `Ben-Zaion.exe` 🐇
 
-**SOFTWARE DEVELOPER // DIGITAL EXPLORER**
-
-[GitHub](https://github.com/Ben-Zaion) · Thailand · Always Learning
+**SOFTWARE DEVELOPER**
 
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║ ZAION OS 98                              [_] [□] [X]         ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  DESKTOP                                                     ║
-║                                                              ║
-║  [▣] MY COMPUTER       [▤] JOURNAL.TXT                       ║
-║                                                              ║
-║  [▧] PROJECTS          [◈] BUNNY.EXE                         ║
-║                                                              ║
-║                                                              ║
-║  ┌────────────────────────────────────────────────────────┐  ║
-║  │ C:\ZAION\PROFILE.EXE                                   │  ║
-║  ├────────────────────────────────────────────────────────┤  ║
-║  │                                                        │  ║
-║  │  WELCOME TO ZAION OS                                   │  ║
-║  │                                                        │  ║
-║  │  USER       : BEN-ZAION                                │  ║
-║  │  ROLE       : SOFTWARE DEVELOPER                       │  ║
-║  │  LOCATION   : THAILAND                                 │  ║
-║  │  STATUS     : ALWAYS LEARNING                          │  ║
-║  │                                                        │  ║
-║  │  /)_/)                                                 │  ║
-║  │ ( o.o )  BUNNY.EXE                                     │  ║
-║  │  > ^ <                                                 │  ║
-║  │                                                        │  ║
-║  └────────────────────────────────────────────────────────┘  ║
-║                                                              ║
-║  [ START ]                  SYSTEM READY       23:98         ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 ## `C:\ZAION\INSTALLED_COMPONENTS`
 
@@ -62,24 +23,6 @@
 **Tools**
 
 `Git` · `GitHub` · `VS Code` · `Linux`
-
-## `C:\ZAION\CURRENTLY_EXPLORING`
-
-```text
-[RUNNING] Cybersecurity
-[RUNNING] Artificial Intelligence
-[RUNNING] Quantum Computing
-[QUEUED ] Enterprise Modernization
-```
-
-## `C:\ZAION\GITHUB_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ben-Zaion&show_icons=true&hide_border=true&theme=transparent" height="160">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Zaion&layout=compact&hide_border=true&theme=transparent" height="160">
-
-</div>
 
 ## `C:\ZAION\CONTRIBUTION.EXE`
 
