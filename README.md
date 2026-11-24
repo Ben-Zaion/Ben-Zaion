@@ -33,18 +33,3 @@
 </div>
 
 ---
-
-<div align="center">
-
-```text
-C:\ZAION> keep_learning.exe
-
-SYSTEM MESSAGE:
-Still learning. Still building. Still curious.
-
-SESSION STATUS: OPEN
-```
-
-🐇 Made with curiosity.
-
-</div>
