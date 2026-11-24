@@ -1,8 +1,5 @@
-![Language history](https://github-readme-insight-terminal-asci.vercel.app/svg/lang-history?user=Ben-Zaion&theme=mac&years=1&scale=1.5)
+![GitHub dashboard](https://github-readme-insight-terminal-asci.vercel.app/svg/dashboard?user=Ben-Zaion&theme=winxp)
 
-![Recent commits](https://github-readme-insight-terminal-asci.vercel.app/svg/git-log?user=Ben-Zaion&theme=mac&scale=1.5)
-
-![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg/graph?user=Ben-Zaion&theme=mac&scale=1.5)
 ---
 
 <div align="center">
