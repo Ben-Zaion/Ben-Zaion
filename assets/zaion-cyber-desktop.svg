@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+<title id="title">ZAION // CYBER DESKTOP</title>
+<desc id="desc">Retro 1990s cyber desktop terminal with neon cyan and phosphor green details, animated radar, scan beam and bunny signature.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050d1b"/><stop offset="1" stop-color="#020610"/></linearGradient>
+  <linearGradient id="window" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#0b1a30"/><stop offset="1" stop-color="#06101f"/></linearGradient>
+  <radialGradient id="radarGlow"><stop stop-color="#2cf0ff" stop-opacity=".42"/><stop offset=".45" stop-color="#087cb9" stop-opacity=".16"/><stop offset="1" stop-color="#087cb9" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="24" patternUnits="userSpaceOnUse"><path d="M32 0H0V24" fill="none" stroke="#0a2340" stroke-width=".8" opacity=".7"/></pattern>
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 .5H4" stroke="#000" stroke-opacity=".32" stroke-width="1"/></pattern>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="screen"><rect x="43" y="76" width="914" height="202"/></clipPath>
+  <style>
+    .mono{font-family:Menlo,Monaco,"Courier New",monospace}
+    .cyan{fill:#28e5ff}.green{fill:#5dffad}.white{fill:#d2e5f0}
+    .blink{animation:blink 1s steps(2,end) infinite}
+    .pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.4s ease-in-out infinite}
+    .sweep{animation:sweep 4.8s linear infinite}
+    .twinkle{animation:twinkle 2.8s ease-in-out infinite alternate}
+    @keyframes blink{50%{opacity:0}}
+    @keyframes pulse{0%,100%{opacity:.55;transform:scale(.82)}50%{opacity:1;transform:scale(1.12)}}
+    @keyframes sweep{from{transform:translateY(-210px)}to{transform:translateY(220px)}}
+    @keyframes twinkle{from{opacity:.25}to{opacity:.9}}
+    @media(prefers-reduced-motion:reduce){.blink,.pulse,.sweep,.twinkle{animation:none}}
+  </style>
+</defs>
+<rect width="1000" height="320" fill="url(#bg)"/>
+<rect width="1000" height="320" fill="url(#grid)"/>
+<g fill="#1a9bc2"><circle class="twinkle" cx="105" cy="80" r="1.1"/><circle class="twinkle" cx="265" cy="270" r="1.2" style="animation-delay:.6s"/><circle class="twinkle" cx="570" cy="70" r="1" style="animation-delay:1.1s"/><circle class="twinkle" cx="920" cy="62" r="1.3"/><circle class="twinkle" cx="955" cy="250" r="1"/></g>
+<rect x="15" y="14" width="970" height="292" fill="none" stroke="#075b83" stroke-width="2"/>
+<rect x="20" y="19" width="960" height="282" fill="none" stroke="#062a49"/>
+<rect x="22" y="21" width="956" height="33" fill="#081b35"/>
+<text x="38" y="43" class="mono cyan" font-size="18" font-weight="bold">ZAION // CYBER DESKTOP</text>
+<text x="748" y="42" class="mono green" font-size="11">SYS 01 | ONLINE</text>
+<path d="M25 56H975" stroke="#0a5c82"/>
+<rect x="42" y="75" width="916" height="204" fill="url(#window)" stroke="#12d8f5" stroke-width="2"/>
+<rect x="44" y="77" width="912" height="24" fill="#102849"/>
+<text x="58" y="93" class="mono white" font-size="11">C:\ZAION\PROFILE.EXE</text>
+<g class="mono white" font-size="12" text-anchor="middle"><text x="910" y="93">_</text><text x="932" y="93">□</text><text x="948" y="93">×</text></g>
+<g clip-path="url(#screen)">
+  <text x="65" y="163" class="mono green" font-size="25" font-weight="bold" letter-spacing="1" filter="url(#glow)">WELCOME TO ZAION OS</text>
+  <g class="mono" font-size="13" letter-spacing=".5">
+    <text x="68" y="204" class="cyan">USER</text><text x="175" y="204" class="cyan">:</text><text x="195" y="204" class="white">BEN-ZAION</text>
+    <text x="68" y="234" class="cyan">ROLE</text><text x="175" y="234" class="cyan">:</text><text x="195" y="234" class="white">SOFTWARE DEVELOPER</text>
+    <text x="68" y="264" class="cyan">FOCUS</text><text x="175" y="264" class="cyan">:</text><text x="195" y="264" class="white">ENTERPRISE SYSTEMS</text>
+  </g>
+  <text x="195" y="292" class="mono white" font-size="13">EXPLORING : CYBERSECURITY / AI / QUANTUM</text>
+  <g transform="translate(790 198)">
+    <circle r="92" fill="url(#radarGlow)" class="pulse"/>
+    <circle r="55" fill="none" stroke="#0b5f86"/>
+    <circle r="38" fill="none" stroke="#0c789e" stroke-dasharray="2 6"/>
+    <path d="M-76 0H76M0 -76V76M-54 -54L54 54M-54 54L54 -54" stroke="#12cdeb" stroke-opacity=".72" stroke-width="1.4"/>
+    <path d="M-38 -38L38 38M-38 38L38 -38" stroke="#28e5ff" stroke-opacity=".35"/>
+    <circle r="5" fill="#c4fbff" filter="url(#glow)"/>
+    <circle r="22" fill="none" stroke="#28e5ff" stroke-width="1.5" class="pulse"/>
+  </g>
+  <g class="mono green" font-size="15" font-weight="bold" filter="url(#glow)">
+    <text x="868" y="164"> /) /)</text><text x="868" y="185">( o.o )</text><text x="868" y="206"> &gt; ^ &lt;</text>
+  </g>
+  <rect class="sweep" x="44" y="76" width="912" height="3" fill="#25ddff" opacity=".22"/>
+</g>
+<rect x="42" y="290" width="916" height="17" fill="#0b1e35" stroke="#125477"/>
+<text x="55" y="302" class="mono white" font-size="10">START</text>
+<text x="130" y="302" class="mono green" font-size="10">SYSTEM READY</text>
+<text x="780" y="302" class="mono cyan" font-size="10">SCANNING<tspan class="blink">_</tspan></text>
+<rect width="1000" height="320" fill="url(#scanlines)" pointer-events="none"/>
+</svg>
