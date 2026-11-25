@@ -34,6 +34,7 @@
 
 --- -->
 <div align="center">
+<img src="assets/cyber-desktop.gif" width="800"/>
 
 <img src="assets/terminal-header.svg" width="800"/>
 
@@ -45,14 +46,16 @@
 + C:\ZAION> sysinfo --profile
 ```
 
-|  |  |
+<!-- |  |  |
 | --- | --- |
 | 👤 `user` | **Ben Zaion** |
 | 💼 `role` | Software Developer |
 | 🖥️ `stack` | COBOL · Java · C# / .NET · Python |
 | 🗄️ `data` | IBM i / AS400 · DB2 · SQL · PL/SQL |
 | 🛠️ `tools` | Git · GitHub · VS Code · Linux |
-| 📟 `status` | 🟢 ONLINE — open to collaborate |
+| 📟 `status` | 🟢 ONLINE — open to collaborate | -->
+
+
 
 <div align="center">
 
