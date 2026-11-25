@@ -97,6 +97,8 @@ root@zaion:~$ cat ./about.me
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ben-Zaion&layout=compact&bg_color=020617&title_color=00e5ff&text_color=22d3ee&border_color=0e7490" alt="langs"/>
 </a>
 
+<img src="https://raw.githubusercontent.com/Ben-Zaion/Ben-Zaion/output/github-snake-dark.svg" width="100%"> 
+
 </div>
 
 ---
