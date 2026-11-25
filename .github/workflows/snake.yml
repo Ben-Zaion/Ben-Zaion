@@ -24,7 +24,8 @@ jobs:
           outputs: |
             #dist/github-snake.svg
             #dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg?color_snake=%233cd6e7&color_dots=%230c102b,%230c133f,%23032666,%230b5691,%23219cc7
+            #dist/github-snake.svg?color_snake=%233cd6e7&color_dots=%230c102b,%230c133f,%23032666,%230b5691,%23219cc7
+            dist/github-snake.svg?color_snake=%23091b4f&color_dots=%23f2fdff,%23c9f6fb,%233cd6e7,%2330bddd,%23219cc7
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%233cd6e7&color_dots=%230c102b,%230c133f,%23032666,%230b5691,%23219cc7
 
       - name: Push to output branch
