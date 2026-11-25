@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 230" width="800">
+<defs>
+  <linearGradient id="bgfade" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#030b1f"/><stop offset="1" stop-color="#010409"/>
+  </linearGradient>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="2.2" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#000" opacity="0.45"/>
+  </pattern>
+  <style>
+    .cmd { font: 15px "Courier New", monospace; fill: #00e5ff; filter: url(#glow); letter-spacing: .5px; }
+    .prompt { font: 15px "Courier New", monospace; fill: #4ade80; filter: url(#glow); }
+    .title { font: bold 11px "Courier New", monospace; fill: #7dd3fc; letter-spacing: 1px; }
+    .tiny { font: 9px "Courier New", monospace; fill: #0e7490; }
+  </style>
+</defs>
+
+<rect width="800" height="230" fill="url(#bgfade)"/>
+
+<rect x="18" y="18" width="764" height="194" rx="8" fill="#04122b" stroke="#0e7490" stroke-width="1.5"/>
+<rect x="18" y="18" width="764" height="26" rx="8" fill="#082f49"/>
+<rect x="18" y="34" width="764" height="10" fill="#082f49"/>
+<text x="36" y="35" class="title">ZAION_OS.EXE — MS-TERMINAL 95 [PHOSPHOR MODE]</text>
+<circle cx="756" cy="31" r="5" fill="#f87171"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="738" cy="31" r="5" fill="#facc15"/>
+<circle cx="720" cy="31" r="5" fill="#4ade80"/>
+
+<text x="60" y="72" class="prompt">C:\ZAION&gt; <tspan class="cmd">whoami</tspan></text>
+
+  <clipPath id="clip94"><rect x="60" y="81" width="0" height="18">
+    <animate attributeName="width" from="0" to="620" dur="1.8s" begin="0.9s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="60" y="94" class="cmd" clip-path="url(#clip94)">ben_zaion :: SOFTWARE DEVELOPER</text>
+<text x="60" y="128" class="prompt">C:\ZAION&gt; <tspan class="cmd">type mission.txt</tspan></text>
+
+  <clipPath id="clip150"><rect x="60" y="137" width="0" height="18">
+    <animate attributeName="width" from="0" to="620" dur="1.8s" begin="3.4s" fill="freeze"/>
+  </rect></clipPath>
+  <text x="60" y="150" class="cmd" clip-path="url(#clip150)">retro systems // modern code // 90s soul</text>
+<text x="60" y="184" class="prompt">C:\ZAION&gt; <tspan class="cmd">ping future -t</tspan></text>
+<text x="60" y="206" class="cmd">&#9654; LINK ESTABLISHED <tspan fill="#4ade80">[200 OK]</tspan> transmission open_
+  <animate attributeName="opacity" values="1;0;1" dur="1s" begin="5.6s" repeatCount="indefinite"/>
+</text>
+
+<rect width="800" height="230" fill="url(#scan)" pointer-events="none"/>
+<g>
+  <animate attributeName="opacity" values="1;0.93;1;0.97;1" dur="0.35s" repeatCount="indefinite"/>
+  <rect width="800" height="230" fill="#00e5ff" opacity="0.02" pointer-events="none"/>
+</g>
+<text x="640" y="222" class="tiny">CRT-9000 // 1995</text>
+</svg>
