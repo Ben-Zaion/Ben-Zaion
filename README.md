@@ -84,6 +84,6 @@
 [![GitHub](https://img.shields.io/badge/-BEN--ZAION-010409?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=0e7490)](https://github.com/Ben-Zaion)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ben-Zaion&color=00e5ff&style=for-the-badge&label=HITS)
 
-<img src="assets/footer.svg" width="800"/>
+<img src="assets/footer.svg?v=1" width="800"/>
 
 </div>
